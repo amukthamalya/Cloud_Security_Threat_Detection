@@ -9,9 +9,9 @@ This project simulates cloud log data to detect:
 - Data exfiltration risks
 
 ## Technologies Used
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
