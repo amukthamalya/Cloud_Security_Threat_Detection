@@ -33,6 +33,24 @@ Cloud_Security_Threat_Detection.ipynb
 
 ## Sample Visualization
 
+### Suspicious Logins
+![Suspicious Logins](Suspicious_logins.png)
+
+### Security Threats by Role
+![Security Threats](Security_threats_by_role.png)
+
+### Risk Percentage Heatmap
+![Risk Heatmap](risk_percentage_heatmap.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
