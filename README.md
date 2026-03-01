@@ -34,7 +34,7 @@ Cloud_Security_Threat_Detection.ipynb
 ## Sample Visualization
 
 ### Suspicious Logins
-![Suspicious Logins](Suspicious_logins.png)
+![Suspicious Logins](Suspicious_login.png)
 
 ### Security Threats by Role
 ![Security Threats](Security_threats_by_role.png)
